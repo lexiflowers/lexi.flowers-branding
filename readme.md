@@ -1,7 +1,7 @@
 ---
 title: Branding Handbook
-abstract: A guide to the visual identity and design language of felixweber.co.uk, including typography, colour palette, gradients, text shadows, borders, buttons, spacing, and design principles.
-author: Felix Weber
+abstract: A guide to the visual identity and design language of lexi.flowers, including typography, colour palette, gradients, text shadows, borders, buttons, spacing, and design principles.
+author: lexi.flowers
 date: 2026-05-19
 toc: true
 ---
@@ -10,7 +10,7 @@ toc: true
 
 # Branding Handbook
 
-This handbook documents the visual identity and design language for felixweber.co.uk.
+This handbook documents the visual identity and design language for lexi.flowers.
 
 # Typography
 
@@ -301,4 +301,4 @@ All images are fully responsive, scaling down within their container without dis
 
 # LaTeX
 
-A `felixweber.latex` file defines the pandoc-LaTeX template for PDF generation in line with the felixweber.co.uk identity.
+A `lexi.flowers.latex` file defines the pandoc-LaTeX template for PDF generation in line with the lexi.flowers identity.

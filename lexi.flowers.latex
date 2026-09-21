@@ -1,12 +1,12 @@
 %%
-%% felixweber.latex
-%% Pandoc LaTeX template — felixweber.co.uk brand
+%% lexi.flowers.latex
+%% Pandoc LaTeX template — lexi.flowers.co.uk brand
 %% Retro-pixel / lofi-digital / neon aesthetic
 %% Designed for: pdflatex / xelatex / lualatex
 %%
 %% Usage:
-%%   pandoc document.md --template=felixweber-template.latex -o output.pdf
-%%   pandoc document.md --template=felixweber-template.latex --pdf-engine=xelatex -o output.pdf
+%%   pandoc document.md --template=lexi.flowers.latex -o output.pdf
+%%   pandoc document.md --template=lexi.flowers.latex --pdf-engine=xelatex -o output.pdf
 %%
 \documentclass[12pt, a4paper]{article}
 
@@ -558,7 +558,7 @@ $endif$
 		\node[anchor=south west, xshift=16mm, yshift=16mm,
 			text=FWNeonCyan]
 		at (current page.south west)
-		{\pixchicago\fontsize{7.5}{9}\selectfont felixweber.co.uk};
+		{\pixchicago\fontsize{7.5}{9}\selectfont lexi.flowers};
 	\end{tikzpicture}%
 	\restoregeometry%
 	\clearpage%
